@@ -4,8 +4,7 @@ userinput = int(input("First number: "))
 userinput1 = int(input("Second number: "))
 
 if operazione == operazioni[0]:
- print(userinput + userinput1)
- print("Error")
+ print(userinput + userinput1)
  input("Press a botton for exit:")
  exit()
  
